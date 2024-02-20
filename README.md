@@ -14,11 +14,11 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://api.daily.dev/get?r=MrMiichel" target="_blank">
+  <a href="https://app.daily.dev/mrmiichel" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/6474eeb01fa64ba8ad5363d5b1cd9f1f.png?r=ovk"
+      src="https://api.daily.dev/devcards/v2/xtCSMfHED4G2G66vJvJDU.png?r=2e9&type=default"
       alt="Michel Van Autrève's Dev Card"
     />
   </a>
